@@ -1,0 +1,13 @@
+{
+    "name": "joaorodriguesjr/application",
+    "description": "",
+    "type": "project",
+    "authors": [
+        {
+            "name": "João Rodrigues Jr",
+            "email": "mail@joaorodriguesjr.com"
+        }
+    ],
+    "autoload": {"psr-0": {"App": "src"}},
+    "require": {}
+}
